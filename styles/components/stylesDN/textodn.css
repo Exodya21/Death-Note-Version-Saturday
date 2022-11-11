@@ -31,6 +31,12 @@
   align-items: center;
   width: 100%;
 }
+.divnamefecha p {
+  font-size: x-large;
+}
+#victimafecha{
+  margin-right: 1em;
+}
 
 @media screen and (min-width: 960px) {
   .texto{
